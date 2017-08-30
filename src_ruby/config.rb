@@ -254,7 +254,7 @@ $isMultilingualization = true
 
 #外部画像URLの有効／無効を設定します。
 # true で有効、false で無効になります。
-$canUseExternalImageModeOn = false
+$canUseExternalImageModeOn = true
 
 
 #キャラクターコマにカーソルを合わせると表示される「その他」の情報の
